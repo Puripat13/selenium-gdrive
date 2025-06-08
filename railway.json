@@ -1,0 +1,3 @@
+{
+  "start": "python scrap1.py && python scrap2.py && python scrap3.py && python scrap4.py"
+}
